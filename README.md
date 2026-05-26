@@ -1,92 +1,27 @@
-## Hi there 👋
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-05-26T18:44:36.364Z",
-  "profile": {
-    "title": "Axel MÉVEL",
-    "subtitle": "Building things that matter · Aiming for the stars, literally",
-    "currentWork": "Small Python projects to build my foundations",
-    "currentLearn": "Python from the ground up, with space, AI or embedded systems in mind. Many more languages ahead. Always building, never just watching tutorials.",
-    "collaborateOn": "Hardware/software crossover projects, robotics, embedded systems, anything with a real engineering problem behind it",
-    "helpWith": "Solidifying my Python foundations and finding beginner-friendly open-source projects to contribute to",
-    "ama": "Electronics repair, Raspberry Pi builds, aeronautics (BIA certified), 3D modeling in Blender (a little I'm still learning), or why humanity needs to become multi-planetary",
-    "contact": "",
-    "funFact": "I did my Erasmus internship in Dublin doing electronics repair, debugging hardware in a second language hits different",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "SeniorWasabi",
-    "dev": "",
-    "linkedin": "",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "seniorwasabi",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "blender",
-    "figma",
-    "linux",
-    "ollama",
-    "python"
-  ]
-}
+# Hi 👋, I'm Axel MÉVEL
+
+### Building things that matter · Aiming for the stars, literally
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SeniorWasabi&label=Profile views&color=0e75b6&style=flat" alt="SeniorWasabi" /> </p>
+
+- 🔭 I'm currently working on **Small Python projects to build my foundations**
+
+- 🌱 I'm currently learning **Python from the ground up, with space, AI or embedded systems in mind. Many more languages ahead. Always building, never just watching tutorials.**
+
+- 👯 I'm looking to collaborate on **Hardware/software crossover projects, robotics, embedded systems, anything with a real engineering problem behind it**
+
+- 🤝 I'm looking for help with **Solidifying my Python foundations and finding beginner-friendly open-source projects to contribute to**
+
+- 💬 Ask me about **Electronics repair, Raspberry Pi builds, aeronautics (BIA certified), 3D modeling in Blender (a little I'm still learning), or why humanity needs to become multi-planetary**
+
+- ⚡ Fun fact **I did my Erasmus internship in Dublin doing electronics repair, debugging hardware in a second language hits different**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/SeniorWasabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SeniorWasabi" height="30" width="40" /></a>
+<a href="https://discord.gg/seniorwasabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="seniorwasabi" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+
