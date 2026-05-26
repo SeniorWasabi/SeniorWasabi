@@ -23,5 +23,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
+<p align="left">
+  <a href="https://www.blender.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://ollama.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+  </a>
+</p>
