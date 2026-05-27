@@ -1,4 +1,4 @@
-# Hi 👋, I'm Axel MÉVEL
+# Hi 👋, I'm Axel 
 
 ### Building things that matter · Aiming for the stars, literally
 
