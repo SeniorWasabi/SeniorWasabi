@@ -1,33 +1,25 @@
 # 💫 About Me
 
-## 🚀 Future engineering student
+### 🚀 Future engineering student  
+Passionate about science, technology and innovation  
 
-Passionate about science, technology and innovation
+### 📚 Preparation  
+Preparing for engineering studies through a preparatory program  
 
-## 📚 Preparation
+### 🔬 Focus areas  
+Mathematics, physics, robotics and problem solving  
 
-Preparing for engineering studies through a preparatory program
+### 💡 Goal
+Contribute to projects that push technology forward and help shape the future  
 
-## 🔬 Focus areas
-
-Mathematics, physics, robotics and problem solving
-
-## 🛰️ Interests
-
-Space, aerospace engineering, advanced technologies and scientific research
-
-## 💡 Goal
-
-Contribute to projects that push technology forward and help shape the future
-
-## Interests
+### Interests 
 - Mathematics  
 - Physics  
 - Aerospace  
 - Engineering  
 - Artificial Intelligence  
 - Computer Science  
-- Emerging Technologies  
+- Emerging Technologies
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/seniorwasabi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:axel.mevel@outlook.fr) 
 
