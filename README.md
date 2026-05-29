@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Small Python projects to build my foundations**
 
-- 🌱 I'm currently learning **Python from the ground up, with space, AI or embedded systems in mind. Many more languages ahead. Always building, never just watching tutorials.**
+- 🌱 I'm currently learning **Python from the ground up, with space, AI or embedded systems in mind. Many more languages ahead **
 
 - 👯 I'm looking to collaborate on **Hardware/software crossover projects, robotics, embedded systems, anything with a real engineering problem behind it**
 
