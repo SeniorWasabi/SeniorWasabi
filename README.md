@@ -3,27 +3,27 @@
 ## 🚀 Future engineering student
 Passionate about science, technology and innovation
 
----
+
 
 ## 📚 Preparation
 Preparing for engineering studies through a preparatory program
 
----
+
 
 ## 🔬 Focus areas
 Mathematics, physics, robotics and problem solving
 
----
+
 
 ## 🛰️ Interests
 Space, aerospace engineering, advanced technologies and scientific research
 
----
+
 
 ## 💡 Goal
 Contribute to projects that push technology forward and help shape the future
 
----
+
 
 ## Interests
 - Mathematics  
