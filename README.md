@@ -1,19 +1,26 @@
 # 💫 About Me
 
-## About Me
+## 🚀 Future engineering student
 
-🚀 Future engineering student passionate about science, technology and innovation  
+Passionate about science, technology and innovation
 
-📚 Preparing for engineering studies through a preparatory program  
+## 📚 Preparation
 
-🔬 Currently focused on mathematics, physics, robotics and problem solving  
+Preparing for engineering studies through a preparatory program
 
-🛰️ Interested in space, aerospace engineering, advanced technologies and scientific research  
+## 🔬 Focus areas
 
-💡 My ambition is to contribute to projects that push technology forward and help shape the future  
+Mathematics, physics, robotics and problem solving
+
+## 🛰️ Interests
+
+Space, aerospace engineering, advanced technologies and scientific research
+
+## 💡 Goal
+
+Contribute to projects that push technology forward and help shape the future
 
 ## Interests
-
 - Mathematics  
 - Physics  
 - Aerospace  
